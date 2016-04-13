@@ -1,1 +1,29 @@
-/* Inserta tu codigo CSS aqui */
+/*Parte 1*/
+header p:first-child{
+	margin-top:100px;
+}
+.top{
+	background:url(../img/header.jpg);
+	background-size:cover;
+	color:white;
+	text-align:center;
+}
+.top nav{
+	background-color:transparent;
+	color:white;
+}
+.navbar-header,.navbar .navbar-brand, .navbar-right ul,#bs-example-navbar-collapse-1 a{
+	opacity:0.6;
+	color:white;
+	border:none;
+	font-size:11px;
+}
+.top a:active,.navbar-brand:hover,#bs-example-navbar-collapse-1 a:hover{
+	opacity:1;
+	color:white;
+}
+.navbar{
+	border:none;
+	border-bottom:1px solid white;
+}
+/*Parte 1*/
