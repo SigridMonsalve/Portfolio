@@ -1,1 +1,42 @@
-/* Inserta tu codigo CSS aqui */
+/* Fotos */
+.img-up {
+	width: 100px;
+	height: 80px;
+	display: block;
+}
+
+.img-down {
+	width: 100px;
+	height: 80px;
+	display: block;
+}
+
+.fondo {
+	width: 100%;
+	background-color: #404040;
+}
+
+p {
+	color: white;
+	text-align: center;
+}
+
+.button {
+	background: white;
+	color: black;
+	display: inline-block;
+	font-size: 10px;
+	margin: 20px;
+	padding: 10px 0;
+	text-align: center;
+	width: 100px;
+	text-decoration: none;
+	border-radius: 50px;
+	text-align: center;
+}
+
+/*Footer*/
+hrdasd {
+	color: #F05F40;
+	margin: 20px 300px; 
+}
