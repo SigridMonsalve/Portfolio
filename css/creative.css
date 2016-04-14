@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*Parte 1*/
 header p:first-child{
 	margin-top:100px;
@@ -64,3 +65,36 @@ header p:first-child{
 	margin-top:50px;
 }
 /*Parte 1*/
+=======
+/* Inicio parte 2 */
+.section2 {
+	height: 300px;
+	background: #F05f40;
+	padding: 20px 380px;
+}
+.title {
+	color: white;
+}
+.line1 {
+	margin: 20px 300px;
+	color: white;
+}
+.text1 {
+	font-size: 13px;
+	color: white;
+}
+.servicios {
+	padding: 40px 180px;
+}
+.title2 {
+	margin-bottom: 20px;
+}
+.line2 {
+	margin: 20px 500px;
+	color: #F05f40;
+}
+.icons {
+	color: #F05f40; 
+}
+/*fin parte 2*/
+>>>>>>> 0a0d4660d5abf29093da0734bfe98587e348f605
